@@ -1,0 +1,6 @@
+{
+  "name": "Snowflake to Databricks Bridge",
+  "description": "Step-by-step interactive architecture, table format (FDN vs Delta Lake), and SQL syntax translator for Snowflake engineers mastering Databricks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
